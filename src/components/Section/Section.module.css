@@ -1,0 +1,19 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    margin: 0 auto 30px;
+    padding-top: 20px;
+  }
+  
+  .section_title {
+    margin-bottom: 10px;
+    font-size: 28px;
+    letter-spacing: 1px;
+    white-space: nowrap;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(99, 0, 161);
+  }
+
+
